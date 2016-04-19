@@ -53,7 +53,7 @@ public class GameManager : MonoBehaviour
     private AudioClip bossDead;
     private AudioClip bossHit;
     private AudioClip bossHitX;
-    private AudioClip abilityon;
+    public AudioClip abilityon;
 
     // Use this for initialization
     void Start()
